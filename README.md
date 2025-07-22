@@ -1,5 +1,8 @@
 
-## Hi there 👋
+## WELCOME DEV. GABRIEL
+
+![Gold Modern Personal LinkedIn Banner (1)](https://github.com/user-attachments/assets/8bf71439-e050-4d6b-8de3-b6a540ac9024)
+
 
 I’m **Uduak Gabriel**, a passionate and versatile full-stack developer with a growing footprint in web, mobile, and emerging tech. My journey into technology began with curiosity and has evolved into a commitment to building efficient, scalable, and impactful digital solutions. I thrive on solving real-world problems through code and constantly push myself to learn and master new technologies across multiple stacks — from frontend frameworks to backend infrastructures and cloud platforms.
 
